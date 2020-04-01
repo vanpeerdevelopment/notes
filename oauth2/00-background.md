@@ -1,4 +1,4 @@
-# [0O - Background](https://www.oauth.com/oauth2-servers/background/)
+# [00 - Background](https://www.oauth.com/oauth2-servers/background/)
 
 ## Preface
 - OAuth 2.0 simplified [blog post](https://aaronparecki.com/oauth-2-simplified/)
