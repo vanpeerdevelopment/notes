@@ -1,4 +1,4 @@
-# [01 - Get Started - AWS](https://learn.hashicorp.com/terraform?track=getting-started#getting-started)
+# [01 - Get Started - AWS](https://learn.hashicorp.com/collections/terraform/aws-get-started)
 
 ## [01 - Infrastructure as Code with Terraform](https://learn.hashicorp.com/terraform/getting-started/intro)
 - HashiCorp product
